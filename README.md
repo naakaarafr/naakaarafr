@@ -10,7 +10,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=naakaarafr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-- 🔭 I’m currently working on **Personalized Search Engine**
+- 🔭 I’m currently working on **Youtube Video Transcribe Summarizer LLM**
 
 - 🌱 I’m currently learning **MERN Stack**
 
