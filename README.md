@@ -53,11 +53,11 @@
   <a href="https://www.crewai.com/" target="_blank" rel="noreferrer"> 
     <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" alt="crewai" width="40" height="40"/> 
   </a>
-  <a href="https://developers.google.com/assistant" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google-adk" width="40" height="40"/> 
+  <a href="https://google.github.io/adk-docs/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google-adk" width="40" height="40"/> 
   </a>
   <a href="https://microsoft.github.io/autogen/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="autogen" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="autogen" width="40" height="40"/> 
   </a>
   <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/modelcontextprotocol.png" alt="mcp" width="40" height="40"/> 
