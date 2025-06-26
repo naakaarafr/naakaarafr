@@ -54,10 +54,10 @@
     <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" alt="crewai" width="40" height="40"/> 
   </a>
   <a href="https://google.github.io/adk-docs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/assets/adk-logo.png" alt="google-adk" width="40" height="40"/> 
+    <img src="https://google.github.io/adk-docs/assets/agent-development-kit.png" alt="google-adk" width="40" height="40"/> 
   </a>
   <a href="https://microsoft.github.io/autogen/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="autogen" width="40" height="40"/> 
+    <img src="https://microsoft.github.io/autogen/0.2/img/ag.svg" alt="autogen" width="40" height="40"/> 
   </a>
   <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/modelcontextprotocol.png" alt="mcp" width="40" height="40"/> 
