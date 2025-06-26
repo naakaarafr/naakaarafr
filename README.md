@@ -54,10 +54,10 @@
     <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" alt="crewai" width="40" height="40"/> 
   </a>
   <a href="https://developers.google.com/android" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="google-adk" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="google-adk" width="40" height="40"/> 
   </a>
   <a href="https://microsoft.github.io/autogen/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/microsoft/autogen/blob/main/website/static/img/flaml.svg?raw=true" alt="autogen" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/microsoft/autogen/main/website/static/img/ag.ico" alt="autogen" width="40" height="40"/> 
   </a>
   <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/modelcontextprotocol.png" alt="mcp" width="40" height="40"/> 
