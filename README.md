@@ -57,10 +57,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="google-adk" width="40" height="40"/> 
   </a>
   <a href="https://microsoft.github.io/autogen/" target="_blank" rel="noreferrer"> 
-    <img src="https://microsoft.github.io/autogen/0.2/assets/images/autogen_agentchat-250ca64b77b87e4b905abf8d4a96cdc2.svg" alt="autogen" width="40" height="40"/> 
+    <img src="https://github.com/microsoft/autogen/blob/main/website/static/img/flaml.svg?raw=true" alt="autogen" width="40" height="40"/> 
   </a>
   <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/179587875?s=200&v=4" alt="mcp" width="40" height="40"/> 
+    <img src="https://github.com/modelcontextprotocol.png" alt="mcp" width="40" height="40"/> 
   </a>
 </p>
 
