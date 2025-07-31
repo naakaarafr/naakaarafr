@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naakaarafr</h1>
-<h3 align="center">I am Divvyansh Kudesiaa, a first-year CSE Core student at SRMIST, Kattankulathur, Chennai.</h3>
+<h3 align="center">I am Divvyansh Kudesiaa, a second-year CSE Core student at SRMIST, Kattankulathur, Chennai.</h3>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=naakaarafr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
