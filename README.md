@@ -20,7 +20,7 @@
 
 <img src="https://img.shields.io/badge/🎓_Student-CSE_Core_SRMIST-FF6B6B?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/🔥_Currently_Building-YouTube_LLM_Summarizer-4ECDC4?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/📚_Learning-MERN_Stack-45B7D1?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/📚_Learning-JavaScript_&_Advanced_Python-4ECDC4?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/💡_Passionate_About-AI/ML_&_Web_Dev-96CEB4?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/⚡_Fun_Fact-Continuous_Learner-FECA57?style=for-the-badge&logoColor=white" />
 
@@ -50,9 +50,7 @@
   <img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-</p>
+</p></p>
 
 ### 🗄️ Databases & Tools
 <p>
@@ -64,8 +62,7 @@
 ### 🤖 AI/ML & Frameworks
 <p>
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
 
 ### 🚀 AI Platforms & Emerging Tech
@@ -93,7 +90,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naakaarafr&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF"/>
 
 ### 📊 Detailed Analytics
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=naakaarafr&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=naakaarafr&repo=naakaarafr&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF"/>
 
 ### 🎯 Commit Patterns
 <img src="https://ghchart.rshah.org/ff6b6b/naakaarafr" alt="GitHub Contribution Chart" width="100%"/>
@@ -123,23 +120,62 @@
 
 ---
 
-## 🌟 Skills Radar Chart
+## 🌟 Skills Progress Chart
 
 <div align="center">
 
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor': '#ff6b6b', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#4ecdc4', 'lineColor': '#feca57', 'sectionBkgColor': '#0d1117', 'altSectionBkgColor': '#161b22', 'gridColor': '#30363d', 'c0': '#ff6b6b', 'c1': '#4ecdc4', 'c2': '#45b7d1', 'c3': '#96ceb4', 'c4': '#feca57', 'c5': '#ff9ff3', 'c6': '#54a0ff'}}}%%
-radar
-    title Skills Assessment
-    "Python" : 90
-    "Java" : 85
-    "C/C++" : 80
-    "Web Dev" : 75
-    "AI/ML" : 85
-    "Database" : 70
-    "Problem Solving" : 95
-    "DSA" : 80
-```
+### 💪 Current Skill Levels
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Python-90%25-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<br>🐍 <strong>Python</strong>
+<br>████████████████████ 90%
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Java-85%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<br>☕ <strong>Java</strong>
+<br>███████████████████ 85%
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/C/C++-80%25-F34B7D?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<br>⚡ <strong>C/C++</strong>
+<br>████████████████ 80%
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Web_Dev-75%25-FFD700?style=for-the-badge&logo=html5&logoColor=black" />
+<br>🌐 <strong>Web Dev</strong>
+<br>███████████████ 75%
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/AI/ML-85%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<br>🤖 <strong>AI/ML</strong>
+<br>███████████████████ 85%
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Database-70%25-FF6B35?style=for-the-badge&logo=mysql&logoColor=white" />
+<br>🗄️ <strong>Database</strong>
+<br>██████████████ 70%
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Problem_Solving-95%25-4ECDC4?style=for-the-badge&logo=leetcode&logoColor=white" />
+<br>🧩 <strong>Problem Solving</strong>
+<br>███████████████████████ 95%
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/DSA-80%25-96CEB4?style=for-the-badge&logo=datastructures&logoColor=white" />
+<br>📊 <strong>DSA</strong>
+<br>████████████████ 80%
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -157,9 +193,9 @@ radar
 > 🚀 An intelligent application that transcribes and summarizes YouTube videos using advanced language models
 
 ### 🌟 Upcoming Projects
-<img src="https://img.shields.io/badge/🔮_MERN_Stack_App-Coming_Soon-96CEB4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🤖_AI_Chatbot-In_Planning-45B7D1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/📱_Mobile_App-Concept_Phase-FF9FF3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔮_MERN_Stack_Learning-In_Progress-96CEB4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📱_Portfolio_Website-Planning_Phase-45B7D1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎮_Game_Development-Exploring-FF9FF3?style=for-the-badge" />
 
 </div>
 
@@ -202,28 +238,24 @@ radar
 ### 📚 Current Learning Journey
 <div align="center">
 
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor': '#ff6b6b', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#4ecdc4', 'lineColor': '#feca57'}}}%%
-journey
-    title My Learning Journey 2024-2025
-    section Foundation
-      C Programming     : 5: Me
-      Data Structures   : 5: Me
-      Algorithms        : 4: Me
-    section Web Development
-      HTML/CSS/JS       : 5: Me
-      React.js          : 4: Me
-      Node.js           : 3: Me
-      MERN Stack        : 3: Me
-    section AI/ML
-      Python            : 5: Me
-      Machine Learning  : 4: Me
-      Deep Learning     : 3: Me
-      LLM Development   : 4: Me
-    section Database
-      MySQL             : 4: Me
-      MongoDB           : 2: Me
+<img src="https://img.shields.io/badge/📖_Currently_Learning-MERN_Stack-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎯_Next_Goal-Advanced_Python-4ECDC4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀_Future_Focus-Full_Stack_Development-FECA57?style=for-the-badge" />
+
+**Learning Progress Timeline:**
+
 ```
+🔵 Completed: C/C++, Java, Python Basics, MySQL
+🟡 In Progress: JavaScript, Advanced Python, Data Structures
+🔴 Planned: React.js, Node.js, MongoDB, Express.js
+```
+
+**2024-2025 Learning Goals:**
+- ✅ Master Data Structures & Algorithms
+- 🔄 Complete JavaScript fundamentals  
+- 📅 Start React.js by December 2024
+- 📅 Begin Node.js & Express by January 2025
+- 📅 Build first full-stack project by March 2025
 
 </div>
 
@@ -235,32 +267,62 @@ journey
   <img src="https://github-contributor-stats.vercel.app/api?username=naakaarafr&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repositories"/>
 </div>
 
-### 📈 Repository Traffic & Insights
+### 📈 Repository Analytics
 <div align="center">
-  <img src="https://repobeats.axiom.co/api/embed/naakaarafr.svg" alt="Repobeats analytics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naakaarafr&theme=radical" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naakaarafr&theme=radical" alt="Most Commit Language"/>
 </div>
 
 ---
 
-## 🎯 Goals & Roadmap
+## 🎯 Goals & Learning Roadmap
 
 <div align="center">
 
-### 2024-2025 Objectives
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor': '#ff6b6b', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#4ecdc4'}}}%%
-gantt
-    title Learning & Project Roadmap
-    dateFormat  YYYY-MM-DD
-    section Skills
-    MERN Stack     :active, mern, 2024-09-01, 2024-12-31
-    AI/ML Advanced :active, aiml, 2024-10-01, 2025-03-31
-    Cloud Computing: cloud, 2025-01-01, 2025-06-30
-    section Projects
-    YouTube LLM    :active, yt, 2024-08-01, 2024-11-30
-    Web Portfolio  : portfolio, 2024-12-01, 2025-02-28
-    Mobile App     : mobile, 2025-03-01, 2025-08-31
-```
+### 🗓️ 2024-2025 Learning Timeline
+
+<table>
+<tr>
+<th>📅 Timeline</th>
+<th>🎯 Goals</th>
+<th>📊 Status</th>
+</tr>
+<tr>
+<td><strong>Oct 2024</strong></td>
+<td>Complete JavaScript Fundamentals</td>
+<td><img src="https://img.shields.io/badge/In_Progress-80%25-yellow?style=flat-square"/></td>
+</tr>
+<tr>
+<td><strong>Nov 2024</strong></td>
+<td>Advanced Data Structures & Algorithms</td>
+<td><img src="https://img.shields.io/badge/In_Progress-60%25-orange?style=flat-square"/></td>
+</tr>
+<tr>
+<td><strong>Dec 2024</strong></td>
+<td>Start React.js Learning</td>
+<td><img src="https://img.shields.io/badge/Planned-0%25-red?style=flat-square"/></td>
+</tr>
+<tr>
+<td><strong>Jan 2025</strong></td>
+<td>Begin Backend with Node.js</td>
+<td><img src="https://img.shields.io/badge/Planned-0%25-red?style=flat-square"/></td>
+</tr>
+<tr>
+<td><strong>Feb 2025</strong></td>
+<td>Learn Database Integration (MongoDB)</td>
+<td><img src="https://img.shields.io/badge/Planned-0%25-red?style=flat-square"/></td>
+</tr>
+<tr>
+<td><strong>Mar 2025</strong></td>
+<td>Build First Full-Stack Project</td>
+<td><img src="https://img.shields.io/badge/Planned-0%25-red?style=flat-square"/></td>
+</tr>
+</table>
+
+### 🎪 Current Learning Focus
+<img src="https://img.shields.io/badge/📚_JavaScript-Intermediate-FFD700?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔢_DSA-Advanced-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🐍_Python-Expert-4ECDC4?style=for-the-badge" />
 
 </div>
 
