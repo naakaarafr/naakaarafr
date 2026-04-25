@@ -70,13 +70,13 @@ class Divvyansh:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=naakaarafr&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=naakaarafr&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&cache_seconds=86400" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naakaarafr&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naakaarafr&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" height="170"/>
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=naakaarafr&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=naakaarafr&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
 
 </div>
 
@@ -86,7 +86,7 @@ class Divvyansh:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=naakaarafr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=naakaarafr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
 
 </div>
 
@@ -102,21 +102,21 @@ class Divvyansh:
 
 ---
 
-## ✍️ Dev Quote of the Day
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naakaarafr&theme=tokyo-night&hide_border=true&area=true&cache_seconds=86400" width="100%"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## ✍️ Dev Quote of the Day
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naakaarafr&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
 
 </div>
 
