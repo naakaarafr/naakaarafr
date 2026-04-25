@@ -1,79 +1,117 @@
-<h1 align="center">Hi 👋, I'm Naakaarafr</h1>
-<h3 align="center">I am Divvyansh Kudesiaa, a second-year CSE Core student at SRMIST, Kattankulathur, Chennai.</h3>
+<div align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=naakaarafr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=naakaarafr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=naakaarafr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Divvyansh%20Kudesiaa&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=naakaarafr%20%E2%80%A2%20CSE%20%40%20SRMIST&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=naakaarafr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI+%26+LLM+Applications+%F0%9F%A4%96;MERN+Stack+in+Progress+%F0%9F%8C%B1;Open+to+Collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on **Youtube Video Transcribe Summarizer LLM**
+<br/>
 
-- 🌱 I’m currently learning **MERN Stack**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divvyansh-kudesiaa-3440a431b)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/divvyanshnaakaarafr)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divvyanshkudesiaa1@gmail.com)
 
-- 💬 Ask me about **python,MySQL,Java,C**
-
-- 📫 How to reach me **divvyanshkudesiaa1@gmail.com**
-
-- ⚡ Fun fact **I think I am the best**
-
-
-# 💻 Tech Stack:
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a>  
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40">
-  </a>  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.crewai.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" alt="crewai" width="40" height="40"/> 
-  </a>
-  <a href="https://google.github.io/adk-docs/" target="_blank" rel="noreferrer"> 
-    <img src="https://google.github.io/adk-docs/assets/agent-development-kit.png" alt="google-adk" width="40" height="40"/> 
-  </a>
-  <a href="https://microsoft.github.io/autogen/" target="_blank" rel="noreferrer"> 
-    <img src="https://microsoft.github.io/autogen/0.2/img/ag.svg" alt="autogen" width="40" height="40"/> 
-  </a>
-  <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/modelcontextprotocol.png" alt="mcp" width="40" height="40"/> 
-  </a>
-</p>
-
-## 🌐 Socials:
-<p align="left">
-<a href="www.linkedin.com/in/divvyansh-kudesiaa-3440a431b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divvyansh kudesiaa" height="30" width="40" /></a>
-<a href="https://instagram.com/divvyanshnaakaarafr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divvyanshnaakaarafr" height="30" width="40" /></a>
-</p>
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=naakaarafr&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
+
+## 👨‍💻 About Me
+
+```python
+class Divvyansh:
+    def __init__(self):
+        self.name       = "Divvyansh Kudesiaa"
+        self.alias      = "naakaarafr"
+        self.university = "SRMIST, Kattankulathur, Chennai"
+        self.degree     = "B.Tech CSE Core — 2nd Year"
+        self.currently  = "YouTube Video Transcribe Summarizer LLM"
+        self.learning   = ["MERN Stack", "Agentic AI", "LLM Engineering"]
+        self.ask_me     = ["Python", "Java", "C", "MySQL"]
+        self.fun_fact   = "I think I am the best 😎"
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Core
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### Web & Tools
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+### 🤖 AI / Agentic Frameworks
+<p>
+  <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-6366F1?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=naakaarafr&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naakaarafr&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165"/>
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=naakaarafr&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=naakaarafr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+
+</div>
+
+---
+
+## 🔝 Top Contributed Repos
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=naakaarafr&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
+
+</div>
+
+---
+
+## ✍️ Dev Quote of the Day
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+
+<sub>⭐ Star some repos if you find them interesting!</sub>
+
+</div>
